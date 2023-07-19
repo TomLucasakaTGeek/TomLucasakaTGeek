@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tanmay Khanna</h1>
-<h3 align="center">A passionate App developer from India</h3>
+<h3 align="center">A passionate Java developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tomlucasakatgeek&label=Profile%20views&color=0e75b6&style=flat" alt="tomlucasakatgeek" /> </p>
+<p align="left"> </p>
 
 - 🌱 I’m currently learning **Python**
 
