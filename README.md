@@ -3,7 +3,7 @@
 
 <p align="left"> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Java**
 
 - 👯 I’m looking to collaborate on **Web3 Projects**
 
