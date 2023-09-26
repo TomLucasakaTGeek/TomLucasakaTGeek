@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanmay Khanna</h1>
-<h3 align="center">A passionate CS student from India</h3>
+<h3 align="center">A passionate Java learner from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tomlucasakatgeek" alt="tomlucasakatgeek" /></a> </p>
 
