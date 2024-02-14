@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Tanmay Khanna</h1>
-<h3 align="center">A passionate CS student from India</h3>
+<h1 align="center">Hi 👋, I'm Thomas Lucas</h1>
+<h3 align="center">A passionate CS student from Antartica</h3>
 
-- 🌱 I’m currently learning **Web Devlopment**
+- 🌱 I’m currently learning **Web Development**
 
 - 👯 I’m looking to collaborate on **Web3 Projects**
 
