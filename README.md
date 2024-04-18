@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thomas Lucas</h1>
 <h3 align="center">A passionate CS student from Antartica</h3>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Web Application Development**
 
 - 👯 I’m looking to collaborate on **Web3 Projects**
 
