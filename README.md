@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Chat-WebApp](https://github.com/TomLucasakaTGeek/Chat-WebApp)
 
-- 🌱 I’m currently learning **Web Application Development**
+- 🌱 I’m currently learning **Microservice Development**
 
 - 👯 I’m looking to collaborate on **Web3 Projects**
 
