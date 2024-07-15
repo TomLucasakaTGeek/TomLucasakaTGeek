@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Microservice Development**
 
-- 👯 I’m looking to collaborate on **Web3 Projects**
+- 👯 I’m looking to collaborate on **Web-based Projects**
 
 - 👨‍💻 All of my projects are available at [https://tomlucasakatgeek.github.io/Tanmay-Khanna-Portfolio-Website/](https://tomlucasakatgeek.github.io/Tanmay-Khanna-Portfolio-Website/)
 
