@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Design-App](https://github.com/TomLucasakaTGeek/)
 
-- 🌱 I’m currently learning **Microservice Development**
+- 🌱 I’m currently learning **Blockchain Development**
 
 - 👯 I’m looking to collaborate on **Web-based Projects**
 
