@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **DSA**
 
-- 📫 How to reach me **TanmayEmpowers@proton.me**
+- 📫 How to reach me **khannatanmay21+gh@gmail.com**
 
 - 📄 Know about my experiences [https://tomlucasakatgeek.github.io/Tanmay-Khanna-Portfolio-Website/](https://tomlucasakatgeek.github.io/Tanmay-Khanna-Portfolio-Website/)
 
