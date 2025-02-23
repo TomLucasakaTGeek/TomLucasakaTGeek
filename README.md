@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Blockchain Development**
 
-- 👯 I’m looking to collaborate on **Web-based Projects**
+- 👯 I’m looking to collaborate on **Pipe-Wheel Project**
 
 - 👨‍💻 All of my projects are available at [https://tomlucasakatgeek.github.io/Tanmay-Khanna-Portfolio-Website/](https://tomlucasakatgeek.github.io/Tanmay-Khanna-Portfolio-Website/)
 
