@@ -7,7 +7,7 @@
 
 | [![Bitcoin](https://avatars.githubusercontent.com/u/528860?s=200&v=4)](https://github.com/bitcoin/bitcoin) | [![Alby](https://avatars.githubusercontent.com/u/90630635?s=200&v=4)](https://github.com/getAlby) |
 |---|---|
-| [![Oppia](https://avatars.githubusercontent.com/u/11620230?s=200&v=4)](https://github.com/oppia) | [![Frappe](https://avatars.githubusercontent.com/u/836974?s=200&v=4)](https://github.com/frappe) |
+| [![Caravan-Bitcoin](https://avatars.githubusercontent.com/u/149108843?s=200&v=4)](https://github.com/caravan-bitcoin) | [![Frappe](https://avatars.githubusercontent.com/u/836974?s=200&v=4)](https://github.com/frappe) |
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tomlucasakatgeek" alt="tomlucasakatgeek" /></a> </p>
