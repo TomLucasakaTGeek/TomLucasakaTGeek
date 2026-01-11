@@ -14,20 +14,13 @@
 
 <p align="left"> <a href="https://twitter.com/ktanmay_hex" target="blank"><img src="https://img.shields.io/twitter/follow/ktanmay_hex?logo=twitter&style=for-the-badge" alt="ktanmay_hex" /></a> </p>
 
-- 🔭 I’m currently working on [Design-App](https://github.com/TomLucasakaTGeek/)
-
-- 🌱 I’m currently learning **Blockchain Development**
-
-- 👯 I’m looking to collaborate on **JerrIt Project**
-
-- 👨‍💻 All of my projects are available at [https://tomlucasakatgeek.github.io/Tanmay-Khanna-Portfolio-Website/](https://tomlucasakatgeek.github.io/Tanmay-Khanna-Portfolio-Website/)
-
+- Currently working on [Design-App](https://github.com/TomLucasakaTGeek/)
+- Currently learning **Blockchain Development**
+- Looking to collaborate on **JerrIt Project**
+- All of my projects are available at [https://tomlucasakatgeek.github.io/Tanmay-Khanna-Portfolio-Website/](https://tomlucasakatgeek.github.io/Tanmay-Khanna-Portfolio-Website/)
 - 💬 Ask me about **DSA**
-
 - 📫 How to reach me **khannatanmay21+gh@gmail.com**
-
 - 📄 Know about my experiences [https://tomlucasakatgeek.github.io/Tanmay-Khanna-Portfolio-Website/](https://tomlucasakatgeek.github.io/Tanmay-Khanna-Portfolio-Website/)
-
 - ⚡ Fun fact **I think I have great Imagination and Writing skills**
 
 <h3 align="left">Connect with me:</h3>
