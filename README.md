@@ -2,16 +2,14 @@
 <h3 align="center">A passionate CS student from India</h3>
 
 ## About Me:
-- Currently working on [Design-App](https://github.com/TomLucasakaTGeek/)
-- Currently learning **Blockchain Development**
-- Looking to collaborate on **JerrIt Project**
-- All of my projects are available at [https://tomlucasakatgeek.github.io/Tanmay-Khanna-Portfolio-Website/](https://tomlucasakatgeek.github.io/Tanmay-Khanna-Portfolio-Website/)
-- How to reach me **khannatanmay21+gh@gmail.com**
-- Know about my experiences [https://tomlucasakatgeek.github.io/Tanmay-Khanna-Portfolio-Website/](https://tomlucasakatgeek.github.io/Tanmay-Khanna-Portfolio-Website/)
+- 💻 Currently working on [JerrIt](https://github.com/TomLucasakaTGeek/JerrIt): A Backend Project Scaffolding Library
+- 🟥 Currently learning **Blockchain Development**
+- 📫 How to reach me **khannatanmay21+gh@gmail.com**
+- 💼 Know about my experiences [https://tomlucasakatgeek.github.io/Tanmay-Khanna-Portfolio-Website/](https://tomlucasakatgeek.github.io/Tanmay-Khanna-Portfolio-Website/)
 
 ## Currently Contributing To
 
-| [![Bitcoin](https://avatars.githubusercontent.com/u/528860?s=200&v=4)](https://github.com/bitcoin/bitcoin) | [![Alby](https://avatars.githubusercontent.com/u/90630635?s=200&v=4)](https://github.com/getAlby) |
+| [![Wordpress](https://avatars.githubusercontent.com/u/276006?s=200&v=4)](https://github.com/WordPress) | [![Alby](https://avatars.githubusercontent.com/u/90630635?s=200&v=4)](https://github.com/getAlby) |
 |---|---|
 | [![Caravan-Bitcoin](https://avatars.githubusercontent.com/u/149108843?s=200&v=4)](https://github.com/caravan-bitcoin) | [![Frappe](https://avatars.githubusercontent.com/u/836974?s=200&v=4)](https://github.com/frappe) |
 
