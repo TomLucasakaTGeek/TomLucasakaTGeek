@@ -4,7 +4,7 @@
 ## About Me:
 - 💻 Currently working on [JerrIt](https://github.com/TomLucasakaTGeek/JerrIt): A Backend Project Scaffolding Library
 - 🟥 Currently learning **Blockchain Development**
-- 📫 How to reach me **khannatanmay21+gh@gmail.com**
+- 📫 How to reach me **khannatanmay21@gmail.com**
 - 💼 Know about my experiences [https://tomlucasakatgeek.github.io/Tanmay-Khanna-Portfolio-Website/](https://tomlucasakatgeek.github.io/Tanmay-Khanna-Portfolio-Website/)
 
 ## Currently Contributing To
