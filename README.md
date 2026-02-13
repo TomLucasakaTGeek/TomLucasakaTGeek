@@ -7,7 +7,7 @@
 - 📫 How to reach me **tanmaykhanna2003@gmail.com**
 - 💼 Visit my portfolio [https://tomlucasakatgeek.github.io/Tanmay-Khanna-Portfolio-Website/](https://tomlucasakatgeek.github.io/Tanmay-Khanna-Portfolio-Website/)
 
-## 🧑🏻‍💻Currently Contributing To
+## 🛠️Proof-of-Work
 ### Caravan:- 
 - **Issue:** Consolidating UTXO and Coin type for better maintainability [https://github.com/caravan-bitcoin/caravan/issues/386] 
 - **Fix:**- Creating a Unified type holding values for both the types [https://github.com/caravan-bitcoin/caravan/pull/463]
@@ -15,6 +15,10 @@
 ### Polar:- 
 - **Issue:** Default wallet for rpc commands when multiple wallets are loaded [https://github.com/caravan-bitcoin/caravan/issues/38]
 - **Fix:**- Ensure all RPC interactions are directed to the default Polar wallet [https://github.com/caravan-bitcoin/caravan/pull/463]
+
+### Project:-
+- **StreamBit:** Live-Streaming Application with Lighning Payments
+- **Repo:** [https://github.com/TomLucasakaTGeek/Stream_IT]
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tomlucasakatgeek" alt="tomlucasakatgeek" /></a> </p>
