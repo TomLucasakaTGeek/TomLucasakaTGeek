@@ -2,16 +2,19 @@
 <h3 align="center">A passionate CS student from India</h3>
 
 ## 🙋🏻‍♂️About Me:
-- 💻 Currently working on [JerrIt](https://github.com/TomLucasakaTGeek/JerrIt): A Backend Project Scaffolding Library
-- 🟥 Currently learning **Blockchain Development**
-- 📫 How to reach me **khannatanmay21@gmail.com**
+- 💻 Currently working on [StreamBit](https://github.com/TomLucasakaTGeek/Stream_IT): Live-Streaming Application with Lighning Payments
+- 🟥 Currently learning **Bitcoin Development⚡**
+- 📫 How to reach me **tanmaykhanna2003@gmail.com**
 - 💼 Visit my portfolio [https://tomlucasakatgeek.github.io/Tanmay-Khanna-Portfolio-Website/](https://tomlucasakatgeek.github.io/Tanmay-Khanna-Portfolio-Website/)
 
 ## 🧑🏻‍💻Currently Contributing To
+### Caravan:- 
+- **Issue:** Consolidating UTXO and Coin type for better maintainability [https://github.com/caravan-bitcoin/caravan/issues/386] 
+- **Fix:**- Creating a Unified type holding values for both the types [https://github.com/caravan-bitcoin/caravan/pull/463]
 
-| [![Wordpress](https://avatars.githubusercontent.com/u/276006?s=200&v=4)](https://github.com/WordPress) | [![Alby](https://avatars.githubusercontent.com/u/90630635?s=200&v=4)](https://github.com/getAlby) |
-|---|---|
-| [![Caravan-Bitcoin](https://avatars.githubusercontent.com/u/149108843?s=200&v=4)](https://github.com/caravan-bitcoin) | [![Frappe](https://avatars.githubusercontent.com/u/836974?s=200&v=4)](https://github.com/frappe) |
+### Polar:- 
+- **Issue:** Default wallet for rpc commands when multiple wallets are loaded [https://github.com/caravan-bitcoin/caravan/issues/38]
+- **Fix:**- Ensure all RPC interactions are directed to the default Polar wallet [https://github.com/caravan-bitcoin/caravan/pull/463]
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tomlucasakatgeek" alt="tomlucasakatgeek" /></a> </p>
