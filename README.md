@@ -17,8 +17,8 @@
 - **Fix:**- Ensure all RPC interactions are directed to the default Polar wallet [https://github.com/caravan-bitcoin/caravan/pull/463]
 
 ### Project:-
-- **StreamBit:** Live-Streaming Application with Lighning Payments
-- **Repo:** [https://github.com/TomLucasakaTGeek/Stream_IT]
+- **StreamBit:** Live-Streaming Application with Lighning Payments [https://github.com/TomLucasakaTGeek/Stream_IT]
+- **Bitcoin-implementation:** Comprehensive implementation of Bitcoin's core concepts built from scratch in Python. [https://github.com/TomLucasakaTGeek/Bitcoin-implementation] 
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tomlucasakatgeek" alt="tomlucasakatgeek" /></a> </p>
