@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanmay Khanna</h1>
-<h3 align="center">A passionate CS student from India</h3>
+<h3 align="center">Software Developer - FullStack and Bitcoin</h3>
 
 ## 🙋🏻‍♂️About Me:
 - 💻 Currently working on [StreamBit](https://github.com/TomLucasakaTGeek/Stream_IT): Live-Streaming Application with Lighning Payments
