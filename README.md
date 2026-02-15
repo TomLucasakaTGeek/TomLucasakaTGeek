@@ -83,3 +83,12 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tomlucasakatgeek&" alt="tomlucasakatgeek" /></p>
 
 
+ <br>
+ <br>
+<div>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TomLucasakaTGeek&theme=bear" width=750  alt="stats graph"/>
+
+</div>
+<br>
+
+
