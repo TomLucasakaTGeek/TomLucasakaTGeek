@@ -12,9 +12,6 @@
 - **Issue:** Consolidating UTXO and Coin type for better maintainability [https://github.com/caravan-bitcoin/caravan/issues/386] 
 - **Fix:**- Creating a Unified type holding values for both the types [https://github.com/caravan-bitcoin/caravan/pull/463]
 
-### Polar:- 
-- **Issue:** Default wallet for rpc commands when multiple wallets are loaded [https://github.com/caravan-bitcoin/caravan/issues/38]
-- **Fix:**- Ensure all RPC interactions are directed to the default Polar wallet [https://github.com/caravan-bitcoin/caravan/pull/463]
 
 ### Project:-
 - **StreamBit:** Live-Streaming Application with Lighning Payments [https://github.com/TomLucasakaTGeek/Stream_IT]
