@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tanmay Khanna</h1>
-<h3 align="center">Software Developer - FullStack and Bitcoin</h3>
+<h3 align="center">Software Developer - FullStack, Bitcoin and AI</h3>
 
 ## 🙋🏻‍♂️About Me:
 - 💻 Currently working on [StreamBit](https://github.com/TomLucasakaTGeek/Stream_IT): Live-Streaming Application with Lighning Payments
-- 🟥 Currently learning **Bitcoin Development⚡**
+- 🟥 Currently learning **Agentic AI Systems⚡**
 - 📫 How to reach me **tanmaykhanna2003@gmail.com**
 - 💼 Visit my portfolio [https://tomlucasakatgeek.github.io/Tanmay-Khanna-Portfolio-Website/](https://tomlucasakatgeek.github.io/Tanmay-Khanna-Portfolio-Website/)
 
@@ -14,6 +14,8 @@
 
 
 ### Project:-
+- **JerrIT:** An NPM Library to scaffold powerful Express.js server, supporting Typescript and GenAI Applications [https://github.com/TomLucasakaTGeek/JerrIt]
+- **Zwip-AI:** Fullstack project supporting multiple AI services - Text Gen, Image Gen, Resume Review, etc [https://github.com/TomLucasakaTGeek/zwip]
 - **StreamBit:** Live-Streaming Application with Lighning Payments [https://github.com/TomLucasakaTGeek/Stream_IT]
 - **Bitcoin-implementation:** Comprehensive implementation of Bitcoin's core concepts built from scratch in Python. [https://github.com/TomLucasakaTGeek/Bitcoin-implementation] 
 
