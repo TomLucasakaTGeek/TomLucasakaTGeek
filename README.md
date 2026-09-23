@@ -5,7 +5,7 @@
 - 💻 Currently working on [StreamBit](https://github.com/TomLucasakaTGeek/Stream_IT): Live-Streaming Application with Lighning Payments
 - 🟥 Currently learning **Agentic AI Systems⚡**
 - 📫 How to reach me **tanmaykhanna2003@gmail.com**
-- 💼 Visit my portfolio [https://tomlucasakatgeek.github.io/Tanmay-Khanna-Portfolio-Website/](https://tomlucasakatgeek.github.io/Tanmay-Khanna-Portfolio-Website/)
+- 💼 Visit my [portfolio](https://tomlucasakatgeek.github.io/Portfolio/)
 
 ## 🛠️Proof-of-Work
 ### Caravan:- 
