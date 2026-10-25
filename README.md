@@ -8,9 +8,13 @@
 - 💼 Visit my [portfolio](https://tomlucasakatgeek.github.io/Portfolio/)
 
 ## 🛠️Proof-of-Work
+### Jenkins/MCP-Server-Plugin:- 
+- **Issue:** Expose Declarative Pipeline validation through MCP [https://github.com/jenkinsci/mcp-server-plugin/issues/228] 
+- **Fix:** MCP tool to expose Declarative Pipeline parsing [https://github.com/jenkinsci/mcp-server-plugin/pull/271]
+
 ### Caravan:- 
 - **Issue:** Consolidating UTXO and Coin type for better maintainability [https://github.com/caravan-bitcoin/caravan/issues/386] 
-- **Fix:**- Creating a Unified type holding values for both the types [https://github.com/caravan-bitcoin/caravan/pull/463]
+- **Fix:** Creating a Unified type holding values for both the types [https://github.com/caravan-bitcoin/caravan/pull/463]
 
 
 ### Project:-
