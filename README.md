@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer - FullStack, Bitcoin and AI</h3>
 
 ## 🙋🏻‍♂️About Me:
-- 💻 Currently working on [StreamBit](https://github.com/TomLucasakaTGeek/Stream_IT): Live-Streaming Application with Lighning Payments
+- 💻 Currently working on [Reliability-Lab](https://github.com/TomLucasakaTGeek/Reliability-Lab): AI evaluation, tracing, and regression testing framework
 - 🟥 Currently learning **Agentic AI Systems⚡**
 - 📫 How to reach me **tanmaykhanna2003@gmail.com**
 - 💼 Visit my [portfolio](https://tomlucasakatgeek.github.io/Portfolio/)
@@ -18,10 +18,11 @@
 
 
 ### Project:-
-- **JerrIT:** An NPM Library to scaffold powerful Express.js server, supporting Typescript and GenAI Applications [https://github.com/TomLucasakaTGeek/JerrIt]
+- **Reliability-Lab:** Python-based AI evaluation, tracing, and regression testing framework [https://github.com/TomLucasakaTGeek/Reliability-Lab]
+- **JerrIT:** NPM Library to scaffold powerful Express.js server, supporting Typescript and GenAI Applications [https://github.com/TomLucasakaTGeek/JerrIt]
 - **Zwip-AI:** Fullstack project supporting multiple AI services - Text Gen, Image Gen, Resume Review, etc [https://github.com/TomLucasakaTGeek/zwip]
 - **StreamBit:** Live-Streaming Application with Lighning Payments [https://github.com/TomLucasakaTGeek/Stream_IT]
-- **Bitcoin-implementation:** Comprehensive implementation of Bitcoin's core concepts built from scratch in Python. [https://github.com/TomLucasakaTGeek/Bitcoin-implementation] 
+- **Bitcoin-implementation:** Comprehensive implementation of Bitcoin's core concepts built from scratch in Python [https://github.com/TomLucasakaTGeek/Bitcoin-implementation] 
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tomlucasakatgeek" alt="tomlucasakatgeek" /></a> </p>
